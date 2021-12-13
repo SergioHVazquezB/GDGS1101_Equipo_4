@@ -1,0 +1,23 @@
+body {
+  background-color: #264653;
+  color: white;
+}
+
+.bg-card-local {
+  background-color: #34a0a4;
+}
+
+.bg-success {
+  background-color: #52b788;
+}
+
+.success {
+  color: #52b788;
+}
+
+.error {
+  color: #e76f51;
+}
+.bg-error {
+  background-color: #e76f51;
+}
